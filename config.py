@@ -2,7 +2,7 @@
 # Copy this file to config.py and update the values
 
 # Next.js Application URL
-BASE_URL = "https://vercel.com/pjcs-projects-c52f2a86/wallie-shopping-assistant/5VCc1MhxH3atRjArFmgcffqhy3Fx"
+BASE_URL = "https://wallie-shopping-assistant.vercel.app/"
 
 # Default user email for voice assistant purchases
 DEFAULT_USER_EMAIL = "rndas2004@gmail.com"
